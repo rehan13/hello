@@ -4,6 +4,10 @@
 # hello
 
 <!-- badges: start -->
+
+[![codecov](https://codecov.io/github/rehan13/hello/branch/main/graph/badge.svg?token=0CXN08HKK1)](https://codecov.io/github/rehan13/hello)
+
+[](https://github.com/rehan13/hello/actions/workflows/test-coverage.yaml/badge.svg)
 <!-- badges: end -->
 
 The goal of hello is to …
